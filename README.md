@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-parcel-eslint-ts-starter
+
+Small boilerplate for modern React apps made with the following:
+
+- [TypeScript](https://www.typescriptlang.org/) 🌟
+- [Create React App](https://github.com/facebook/create-react-app) 🤘
+- [ESLint](https://eslint.org/docs/user-guide/getting-started) ✅
+- [Prettier](https://prettier.io/docs/en/install.html) 🌈
+
+---
 
 ## Available Scripts
 
